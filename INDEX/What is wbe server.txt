@@ -1,0 +1,3 @@
+What is web server ?
+ > When you type a website address in your browser,the web server recives the request, and send 
+   reply them back to your browser to display

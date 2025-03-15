@@ -1,0 +1,15 @@
+What is website ?
+ > website is a callection of webpages i.c. called website.
+ or 
+ > website is a callection of information i.c. called website.
+ 
+  ex. http//www.mastersportal.com/articles/1644/best-univercities-in-canada.html
+
+type of website
+
+ (a) static website:
+     >static website  not able to chenge on run time
+
+ (b) dynamic wabsite:
+     >dynamic website ablr to change| add| removed any content on run time in website i.c. caaled dynamic website.
+      ex.https://www.flipkart.com/   

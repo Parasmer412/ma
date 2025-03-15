@@ -1,0 +1,4 @@
+What is w3c ?
+ >W3c stands for world wide web consortutium
+ >w3c is an organization i.e. used to manage all things about Html|html5| css| css3 containts,
+   ex,w3c=>worid wide web consortium

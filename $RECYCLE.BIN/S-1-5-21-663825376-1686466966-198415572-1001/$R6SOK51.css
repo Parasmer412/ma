@@ -1,0 +1,9 @@
+table{
+    width: 200px;
+    text-align: left;
+}
+table,th,td,tr {
+    border: 1px solid green;
+    border-collapse: collapse;
+    padding: 0.5rem 1rem;
+    }

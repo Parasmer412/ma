@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration form</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <h1>Registration form</h1>
+    <p>Please fill out this form with the required information</p>
+    <form action='https://register-demo.freecodecamp.org'>
+     <fieldset>
+         <label for="first name">Enter Your First: <input type="text" name="first name" required/></label>
+         <label for="last name"> Enter Your Last name: <input type="text" name="last name" required/></label>
+         <label for="email">Enter Your Email: <input type="email" name="email" required/></label>
+         <label for="password">Create a new Password: <input type="password" name="password" pattern="a-z0-7" required/> </label>
+
+    </fieldset>
+    <fieldset>
+        <label > <input type="radio" name="Account-type" > Personal Account</label>
+        <label > <input type="radio" name="Account-type" > business Account</label>
+        <label ><input type="checkbox" name="terms" class="inline" required>I accept the <a href="http://freecodecamp.org/news/terms-of-service/">terms and condition</a></label>
+    </fieldset>
+    <fieldset>
+        <label > Upload a profile picture: <input type="file" ></label>
+        <label> Input your age (years): <input type="number"  name="age" min="13" max="34"></label>
+        <label > How did you hear abot us ?
+            <select name="ref" id=""></select>
+        </label>
+    </fieldset>
+    </form>
+</body>
+</html>

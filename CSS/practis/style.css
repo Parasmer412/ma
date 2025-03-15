@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+#container{
+    height: 400px;
+    display: flex;
+    border: 2px solid red;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    column-gap: 10px;
+}
+.box{
+    border: 2px solid green;
+     margin: 10px;
+     width: 80px;
+}

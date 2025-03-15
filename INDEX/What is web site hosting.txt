@@ -1,0 +1,3 @@
+What is web site hosting ?
+ >Web site hosting is a service that allows you to store your website's file on server, Making it accessible to people on the internet 
+  through a web browser a web browser.
